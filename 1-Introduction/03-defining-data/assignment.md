@@ -12,49 +12,49 @@ Follow the prompts in this assignment to identify and classify the data with one
 
 1. A company has been acquired and now has a parent company. The data scientists have received a spreadsheet of customer phone numbers from the parent company. 
 
-Structure Type:
+Structure Type: Structured Data
 
-Value Type: 
+Value Type: Quantity Data
 
-Source Type: 
+Source Type: Excel
 
 ---
 
 2. A smart watch has been collecting heart rate data from its wearer, and the raw data is in JSON format.
 
-Structure Type:
+Structure Type: Semi Structured Data
 
-Value Type: 
+Value Type: Quantity Data
 
-Source Type: 
+Source Type: Sensor
 
 ---
 
 3. A workplace survey of employee morale that is stored in a CSV file. 
 
-Structure Type:
+Structure Type: Structured data
 
-Value Type: 
+Value Type: Quality data
 
-Source Type: 
+Source Type: Survey
 
 ---
 
 4. Astrophysicists are accessing a database of galaxies that has been collected by a space probe. The data contains the number of planets within in each galaxy.
 
-Structure Type:
+Structure Type: unstructured data
 
-Value Type: 
+Value Type: quantity data
 
-Source Type: 
+Source Type: sensor
 
 ---
 
 5. A personal finance app uses APIs to connect to a user's financial accounts in order to calculate their net worth. They can see all of their transactions in a format of rows and columns and looks similar to a spreadsheet.
 
-Structure Type:
+Structure Type: semi structured
 
-Value Type: 
+Value Type: quality
 
 Source Type: 
 
